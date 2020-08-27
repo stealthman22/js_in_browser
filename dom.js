@@ -106,3 +106,4 @@ console.log(bool);
 //  Even though its says node, it will be an element node
 // cos you cannot have text that is the parent of anothe ele
 console.log(main.parentNode);
+console.log(main);
