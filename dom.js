@@ -107,3 +107,4 @@ console.log(bool);
 // cos you cannot have text that is the parent of anothe ele
 console.log(main.parentNode);
 console.log(main);
+console.log(bool);
